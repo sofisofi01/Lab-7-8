@@ -1,1 +1,1 @@
-# laba7-8
+CRUD-app based on Java
